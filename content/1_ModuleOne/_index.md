@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction AS"
 chapter: true
 weight: 1
 ---
@@ -8,7 +8,7 @@ weight: 1
 
 ![](./images/image-cnf-overview.png)
 
-## Welcome! (Test - AS)
+## Welcome!
 
 AWS Software-Defined Networking (SDN) is elastic, complex, and quite different than traditional on-premise networking. In this workshop you will learn how to use FortiGate Cloud Native Firewall as a Service (FortiGate CNF) to protect your AWS workloads deployed in common architecture patterns.
 
