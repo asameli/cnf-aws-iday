@@ -22,6 +22,7 @@ weight: 3
   * us-west-1 (N. California)
   * us-west-2 (Oregon)
   * eu-central-1 (Frankfurt)
+  * eu-central-2 (Zurich)
   * eu-west-1 (Ireland)
   * eu-west-2 (London)
   * ap-northeast-1 (Tokyo)
