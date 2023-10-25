@@ -35,6 +35,7 @@ The NLB will perform destination NAT to change the private IP to that of the hea
 
 {{% notice note %}}
 You are now only allowing HTTPS inbound to your environment that is sourced from a public IP within the United States!
+If access does not work, we recommend changing access in policy set to "all" or set Region to "Switzerland".
 {{% /notice %}}
 
 ![](../images/image-t5-1.png)
