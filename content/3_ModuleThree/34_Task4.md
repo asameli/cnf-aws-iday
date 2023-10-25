@@ -112,6 +112,10 @@ AuthSharedServices-EastWest | ProdAPIBackend | ProdAuthBackend | HTTPS + RADIUS 
 ICMP-Egress | RFC-1918 | UnitedStates | ALL_ICMP | ACCEPT | All Sessions
 IPinfo-Egress | SDNGroup1 + SDNGroup2 + AppPublicSubnet1 + AppPublicSubnet2 | ipinfo.io | HTTPS | ACCEPT | All Sessions
 
+{{% notice note %}}
+For best experience in Switzerland, we recommend changing this policy set to "all" or set Region to "Switzerland" instead of "UnitedStates".
+{{% /notice %}}
+
 ![](../images/image-t4-14.png)
 
 ![](../images/image-t4-15.png)
