@@ -116,6 +116,10 @@ IPinfo-Egress | SDNGroup1 + SDNGroup2 + AppPublicSubnet1 + AppPublicSubnet2 | ip
 For best experience in Switzerland, we recommend changing this policy set to "all" or set Region to "Switzerland" instead of "UnitedStates".
 {{% /notice %}}
 
+{{% notice warning %}}
+**Note:** Test 123 
+{{% /notice %}}
+
 ![](../images/image-t4-14.png)
 
 ![](../images/image-t4-15.png)
