@@ -1,6 +1,6 @@
 ---
 title: "Extra Credit"
-chapter: false
+chapter: true
 weight: 5
 ---
 
