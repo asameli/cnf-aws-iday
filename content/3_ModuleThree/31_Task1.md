@@ -17,6 +17,10 @@ weight: 1
 
 - 3.  The page should update and show the GA pricing. Click **Subscribe**.
 
+{{% notice warning %}}
+**Note:** Please make sure you are subscribing to the **Consumption** based service and NOT to the annual contract. 
+{{% /notice %}}
+
 ![](../images/image-t1-3.png)
 
 - 4. A green banner will be at the top of the screen. Click **Set up your account** and this will redirect you to associating this subscription to your FortiCloud account.
