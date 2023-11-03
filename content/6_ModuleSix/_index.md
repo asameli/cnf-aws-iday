@@ -1,7 +1,7 @@
 ---
 title: "Feedback"
 chapter: true
-weight: 5
+weight: 6
 ---
 
 # Thank You!
@@ -16,4 +16,4 @@ If you don't mind please give us feedback about this session [**HERE**](https://
 
 Contact us for more information about our offering and visit our [Training Center](https://training.fortinet.com/) for further trainings.
 
-![](../images/image-feedback-t0-1.png)
+![](./images/image-feedback-t0-1.png)
