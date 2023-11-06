@@ -21,6 +21,10 @@ For the AWS Immersion Days, we will provide you the following via email on the d
 
 ## Accessing the FortiGate CNF Console
 
+{{% notice note %}}
+You have already a FortiCloud Account on the accounts list from your instructor. We strongly recommend using the Account provided and **NOT** any other account.
+{{% /notice %}}
+
 FortiGate CNF and other SaaS solutions are tied to your [**FortiCloud**](https://support.fortinet.com/). If you do not already have one, please navigate [**here**](https://support.fortinet.com/cred/#/sign-up) and complete the registration process.
 
 If you already have an account and don't want to use that for this lab, it is recommended to create your own FortiCloud account.

@@ -46,7 +46,7 @@ You are now only allowing HTTPS and RADIUS access between two resourced based on
 {{% /notice %}}
 
 {{%expand "Question 1: What happens if you try the same test from WrkInstance1?" %}}
-You are able to ping but SS annd HTTPS time out.
+You are able to ping but SSH and HTTPS time out.
 {{% /expand%}}
 
 {{%expand "Question 2: What tags are allowing this communication to match the dynamic address objects?" %}}

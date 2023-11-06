@@ -11,7 +11,7 @@ weight: 3
 
 ![](../images/image-t3-1.png)
 
-- 2.  Provide a name for the CNF instance, select **us-east-2** for the region for deployment, select **Internal S3** for the log type, and select the **S3 bucket** created by CloudFormation for the logging destination. Then click **Save**. This will drop you back to the list of CNF instances while this is deployed in the background.
+- 2.  Provide a name for the CNF instance, select **us-east-2 (US East Ohio)** for the region for deployment, select **Internal S3** for the log type, and select the **S3 bucket** created by CloudFormation for the logging destination. Then click **OK**. This will drop you back to the list of CNF instances while this is deployed in the background.
 
 {{% notice note %}}
 **Note:** FortiGate CNF is available in the following regions today. Based on customer demand, more regions will be supported in the future.
@@ -67,6 +67,10 @@ Inspection-VPC | Inspection-GwlbeSubnet2
 ![](../images/image-t3-11.png)
 
 - 7.  Log into your AWS Account and navigate to the **VPC Console > Endpoints**. Each of the GWLBe endpoints you deployed in the FortiGate CNF Console should be visible in your account. Notice the tag name and value pairs assigned to the endpoints.
+
+{{% notice info %}}
+**Note:** If you don't see any Routes, make sure you've selected the right region (Ohio us-east-2)
+{{% /notice %}}
 
 ![](../images/image-t3-12.png)
 
